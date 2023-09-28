@@ -1,13 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import PlaygroundPage from './components/playground/page'
+import SidebarTemplate from './components/playground/sidebar-tpl'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <PlaygroundPage />
+        <SidebarTemplate />
       </header>
     </div>
   );
