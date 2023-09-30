@@ -5,6 +5,14 @@ import './globals.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// import { inspect } from "@xstate/inspect";
+ 
+// inspect({
+//   url: "https://statecharts.io/inspect",
+//   iframe: false
+// });
+
+
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );

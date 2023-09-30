@@ -4,6 +4,7 @@ import './App.css';
 import SidebarTemplate from './components/playground/sidebar-tpl'
 
 function App() {
+ // console.log("App started")
   return (
     <div className="App">
       <header className="App-header">
